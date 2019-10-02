@@ -11,3 +11,5 @@ also=dev
 save-exact=true
 engine-strict=true
 EOF
+
+# npm install -D webpack webpack-cli babel-loader @babel/core @babel/preset-env
